@@ -8,7 +8,7 @@ I run this script as a cronjob via crontab every 10 seconds.
 
 The script will poll the http api of the light, and if the light is found, it will poll the webex api and adjust the light accordingly.
 
-.env file
+<b>.env file</b>
 
 This repo contains an example .env file to use as a template for your own file.
 You must obtain the webex user ID of your webex account and add this with the variable 'WEBEX_USER' as well as your webex api key
