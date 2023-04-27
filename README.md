@@ -18,3 +18,5 @@ This repo contains an example .env file to use as a template for your own file. 
 > WEBEX_USER={Your person ID string}
 
 I recommend using a webex bot for an api key as these do not expire unlike personal keys which do expire.
+
+This code is scanned by Sonarcube and dependencies kept up to date with renovate bot. 
