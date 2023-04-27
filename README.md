@@ -1,4 +1,4 @@
-# Kuando Busy Light for MacOS Webex Status
+# Kuando Busy Light for MacOS Webex User Status
 
 This is a quick script to enable integration between a users Webex status and a Kuando BusyLight for users of MacOS where
 currently no integration exists.
